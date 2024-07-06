@@ -1,0 +1,1 @@
+To run this multiplayer cell eating game, launch the Server.py file on the server, and the Controller.py on the clients. All the other files should be downloaded both on the server and client devices. To change the IP adress of the server, go in Constants.py and change the variable named SERVER (by default it is set to localhost. Have fun!
